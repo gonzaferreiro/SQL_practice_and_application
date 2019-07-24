@@ -1,6 +1,6 @@
 # SQL_practice_and_application
 
-This repository contains two different notebooks with the objective of showing some basics skills in SQL:
+This repository contains two different notebooks with the objective of practicing some basics skills in SQL:
 
 * SQL with Pandas: in this notebook I'll show how to realize SQL queries using the sqlite3 library. Going from csv files, to creating a SQL Database, save the dataframes as SQL tables and finally query them.
 
